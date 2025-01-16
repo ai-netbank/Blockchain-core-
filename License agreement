@@ -1,0 +1,59 @@
+Ai-Netbank Custom License Agreement (ANCLA)
+
+1. Definitions
+
+1.1 “Software” refers to the Respiratory Blockchain Core, including all associated components, source code, object code, APIs, scripts, and documentation.
+1.2 “Licensor” refers to Ai-Netbank, the copyright holder and owner of the Software.
+1.3 “Licensee” refers to any individual, organization, or entity that uses, accesses, or interacts with the Software.
+1.4 “Authorized Use” refers to usage explicitly permitted by the Licensor under this License Agreement.
+
+2. Grant of License
+
+2.1 Limited Use: The Licensor grants the Licensee a non-exclusive, non-transferable, and revocable license to use the Software solely for:
+	•	Participation within the Ai-Netbank ecosystem.
+	•	Development of compatible smart contracts, applications, or integrations, explicitly authorized by the Licensor.
+
+2.2 Restrictions: The Licensee agrees not to:
+	•	Modify, reverse-engineer, decompile, or disassemble the Software.
+	•	Use the Software for commercial purposes without prior written consent from the Licensor.
+	•	Create derivative works or forks of the Software.
+	•	Distribute, sublicense, or lease the Software to any third party without explicit permission from the Licensor.
+
+3. Privacy and Security Obligations
+
+3.1 Data Handling: The Licensee must comply with Ai-Netbank’s privacy principles. Unauthorized data collection, tracking, or use of the Software to breach user confidentiality is strictly prohibited.
+3.2 Network Integrity: The Licensee agrees to maintain the integrity of Ai-Netbank’s independent network and not introduce vulnerabilities, unauthorized access points, or exploits.
+
+4. Intellectual Property Rights
+
+4.1 All rights, title, and interest in and to the Software remain exclusively with the Licensor. The Licensee acknowledges that this License does not transfer any ownership rights.
+4.2 Contributions to the Ai-Netbank ecosystem (e.g., plugins, modules) must adhere to Licensor-approved open standards and remain under a permissive license such as MIT or Apache 2.0, as determined by the Licensor.
+
+5. Commercial Use
+
+5.1 Prohibited Use: The Software may not be used for any commercial purposes, including paid services, integrations, or monetized applications, without a separate licensing agreement.
+5.2 Licensing for Commercial Use: Entities or individuals wishing to use the Software commercially must enter into a formal licensing agreement with the Licensor, outlining terms, conditions, and associated fees.
+
+6. Warranty Disclaimer
+
+6.1 The Software is provided “AS IS,” without any warranties, express or implied, including but not limited to fitness for a particular purpose, merchantability, or non-infringement.
+6.2 The Licensor is not liable for any damages, losses, or claims arising from the use or inability to use the Software.
+
+7. Termination
+
+7.1 The Licensor reserves the right to terminate this License at any time if the Licensee breaches any terms of this Agreement.
+7.2 Upon termination, the Licensee must cease all use of the Software and delete all copies of it in their possession.
+
+8. Governing Law and Dispute Resolution
+
+8.1 This License Agreement is governed by the laws of Australia.
+8.2 Any disputes arising under this Agreement shall be subject to arbitration in Australia, with the decision of the arbitrator being final and binding.
+
+9. Miscellaneous
+
+9.1 This License constitutes the entire agreement between the Licensor and Licensee regarding the Software and supersedes all prior agreements.
+9.2 If any provision of this License is found to be unenforceable, the remaining provisions will remain in full effect.
+
+Acknowledgment
+
+By using the Software, the Licensee acknowledges that they have read, understood, and agree to be bound by the terms of this License Agreement.
