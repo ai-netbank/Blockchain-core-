@@ -1,0 +1,12 @@
+docs/
+│
+├── index.md                # Main entry point for the documentation
+├── getting-started.md      # Guide for setting up and using the system
+├── architecture.md         # Detailed explanation of the system architecture
+├── api-reference.md        # Comprehensive API documentation
+├── smart-contracts.md      # Guide for developing smart contracts
+├── security.md             # Best practices for secure development
+├── examples/               # Folder for usage examples
+│   ├── example-1.md        # Simple blockchain interaction
+│   ├── example-2.md        # Advanced integration guide
+└── faq.md                  # Frequently asked questions
